@@ -2,7 +2,7 @@
 Repositorio que incluye el codigo de la aplicación del sistema de gestion de ventas.
 
 # SGV - Sistema de Gestión de Ventas
-Aplicación de escritorio/web desarrollada con Python + Flet.
+Aplicación de escritorio/web desarrollada con Python + Flet + SQLite3.
 
 ## Módulos incluidos
 - 🔐 Login con autenticación
